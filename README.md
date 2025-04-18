@@ -1,4 +1,4 @@
-Hi, I’m Inam Abbas, with 6+ years of software development experience. The most
+Hi, I’m Inam Abbas, with 10+ years of software development experience. The most
 prominent part of my Development career is Web Development , Web Designing and Desktop
 App all the phases of Software development life cycle, which includes software analysis,
 design, development, testing, implementation, maintenance and documentation of
